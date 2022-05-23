@@ -1,0 +1,40 @@
+html{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+}
+
+span[class=code]{
+    font-weight:bold
+}
+
+h2{
+    text-decoration: underline; font-style:italic; color:blue
+}
+
+span[class=grande]{
+    font-size: x-large;
+}
+
+span[class=chikito]{
+    font-size: x-small;
+}
+
+table[class=tabla]{
+    width: 100%;
+    text-align: left;
+    background-color: blue;
+    text-decoration: white;
+    color: yellow;  
+    padding: 1px;
+}
+td[class="rojo"]{
+    background-color: red;
+    color: white;
+}
+td{
+    border: 5px solid black;
+    outline-color: black;
+}
